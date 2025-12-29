@@ -46,24 +46,6 @@ Welcome to my digital portfolio. This repository hosts **XOX System**, a showcas
 - **Glitch Protocol**: Custom CSS animations and text scrambling effects.
 - **Glassmorphism**: Premium frosted glass UI components.
 
-## 📂 Active Protocols (Projects)
-
-- **Ghost Brain**: Desktop assistant intercepting user intent via Gemini 2.0.
-- **MCP Gateway**: Connecting local tools to LLM agents.
-- **Portfolio Main**: This very website.
-
-## 🚀 Deployment
-
-This system is deployed via **GitHub Pages**. Code is statically generated and vibrationally aligned.
-
-```bash
-git clone https://github.com/XoX-1/xox-1.github.io.git
-cd xox-1.github.io
-# Open index.html to initialize
-```
-
----
-
 <div align="center">
   <p>SYSTEM ID: XOX-1 // END TRANSMISSION</p>
   <p>
